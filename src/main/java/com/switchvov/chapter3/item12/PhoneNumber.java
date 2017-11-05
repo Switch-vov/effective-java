@@ -7,8 +7,7 @@ public final class PhoneNumber implements Cloneable, Comparable<PhoneNumber> {
     private final short prefix;
     private final short lineNumber;
 
-    public PhoneNumber(int areaCode, int prefix,
-                       int lineNumber) {
+    public PhoneNumber(int areaCode, int prefix, int lineNumber) {
         rangeCheck(areaCode, 999, "area code");
         rangeCheck(prefix, 999, "prefix");
         rangeCheck(lineNumber, 9999, "line number");
@@ -119,7 +118,7 @@ public final class PhoneNumber implements Cloneable, Comparable<PhoneNumber> {
     }
 
     public static void main(String[] args) {
-        NavigableSet<PhoneNumber> s = new TreeSet<PhoneNumber>();
+        NavigableSet<PhoneNumber> s = new TreeSet<>();
         for (int i = 0; i < 10; i++) {
             s.add(randomPhoneNumber());
         }

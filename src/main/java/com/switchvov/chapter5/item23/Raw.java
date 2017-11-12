@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item23;
+package com.switchvov.chapter5.item23;
 
 import java.util.*;
 

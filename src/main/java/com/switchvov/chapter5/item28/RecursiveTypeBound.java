@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item28;// Using a recursive type bound with wildcards - Page 138-139
+package com.switchvov.chapter5.item28;// Using a recursive type bound with wildcards - Page 138-139
 
 import java.util.*;
 

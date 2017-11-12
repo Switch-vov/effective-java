@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item28;// Private helper method for wildcard capture - Pages 139-140
+package com.switchvov.chapter5.item28;// Private helper method for wildcard capture - Pages 139-140
 
 import java.util.*;
 

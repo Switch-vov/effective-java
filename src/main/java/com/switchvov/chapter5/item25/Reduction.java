@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item25;// List-based generic reduction - Page 123
+package com.switchvov.chapter5.item25;// List-based generic reduction - Page 123
 
 import java.util.*;
 

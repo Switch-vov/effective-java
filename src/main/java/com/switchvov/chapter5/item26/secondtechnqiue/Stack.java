@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item26.secondtechnqiue;// Generic stack using Object[] - Pages 125-127
+package com.switchvov.chapter5.item26.secondtechnqiue;// Generic stack using Object[] - Pages 125-127
 
 import java.util.Arrays;
 

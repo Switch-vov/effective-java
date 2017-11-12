@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item28;// Generic union method with wildcard types - Pages 137-138
+package com.switchvov.chapter5.item28;// Generic union method with wildcard types - Pages 137-138
 
 import java.util.*;
 

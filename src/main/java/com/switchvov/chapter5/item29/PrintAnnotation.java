@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item29;// Use of asSubclass to safely cast to a bounded type token - Page 146
+package com.switchvov.chapter5.item29;// Use of asSubclass to safely cast to a bounded type token - Page 146
 
 import java.lang.annotation.*;
 import java.lang.reflect.*;

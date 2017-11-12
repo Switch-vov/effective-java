@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item27;// Generic singleton factory method - Pages 131-132
+package com.switchvov.chapter5.item27;// Generic singleton factory method - Pages 131-132
 
 public class GenericSingletonFactory {
     // Generic singleton factory pattern

@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item28;// List-based generic reduction with wildcard type - Page 136
+package com.switchvov.chapter5.item28;// List-based generic reduction with wildcard type - Page 136
 
 import java.util.*;
 

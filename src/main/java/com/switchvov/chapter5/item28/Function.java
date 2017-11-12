@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item28;
+package com.switchvov.chapter5.item28;
 
 // Generic Function interface - Page 122
 interface Function<T> {

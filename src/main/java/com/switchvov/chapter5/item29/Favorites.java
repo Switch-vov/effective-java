@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item29;// Typesafe heterogeneous container - Pages 142-145
+package com.switchvov.chapter5.item29;// Typesafe heterogeneous container - Pages 142-145
 
 import java.util.*;
 

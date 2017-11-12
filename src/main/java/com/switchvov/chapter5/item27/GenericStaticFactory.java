@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item27;// Generic static factory method - Pages 130-131
+package com.switchvov.chapter5.item27;// Generic static factory method - Pages 130-131
 
 import java.util.*;
 

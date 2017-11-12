@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item27;// Generic union method and program to exercise it - pages 129 - 130
+package com.switchvov.chapter5.item27;// Generic union method and program to exercise it - pages 129 - 130
 
 import java.util.*;
 

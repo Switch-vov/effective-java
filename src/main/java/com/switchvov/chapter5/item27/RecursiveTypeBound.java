@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item27;// Using a recursive type bound to express mutual comparability - Pages 132-133
+package com.switchvov.chapter5.item27;// Using a recursive type bound to express mutual comparability - Pages 132-133
 
 import java.util.*;
 

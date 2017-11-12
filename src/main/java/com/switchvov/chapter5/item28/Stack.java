@@ -1,4 +1,4 @@
-package com.switchvov.chapter5.Item28;// Generic stack with bulk methods using wildcard types -
+package com.switchvov.chapter5.item28;// Generic stack with bulk methods using wildcard types -
 
 import java.util.*;
 
